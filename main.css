@@ -1,0 +1,40 @@
+    .hero {
+    background: url('./images/loja.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+
+    .hero h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    }
+
+    .hero p {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    }
+
+    .btn-custom {
+    background-color: #FF5722;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+    }
+
+    .btn-custom:hover {
+    background-color: #E64A19;
+    }
+
+    .features {
+    padding: 80px 0;
+    }
+
+    .features .icon {
+    font-size: 3rem;
+    color: #FF5722;
+    }
